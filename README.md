@@ -10,3 +10,5 @@ Le répertoire [`redis/`](./redis) contient le sujet ainsi que mon rendu du TD R
 ## Base de Données orientée Document
 
 Le répertoire [`mongo/`](./mongo) contient le sujet ainsi que mon rendu des requêtes MongoDB.
+
+Le répertoire [`td-mongo/`](./td-mongo) contient le sujet ainsi que mon rendu du TD MongoDB.
